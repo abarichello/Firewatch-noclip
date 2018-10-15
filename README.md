@@ -1,12 +1,13 @@
 # Firewatch-noclip
-Noclip mod for the game [Firewatch](https://en.wikipedia.org/wiki/Firewatch).
+Noclip mod for the game [Firewatch](https://en.wikipedia.org/wiki/Firewatch). This mod lets you fly around and get to areas that are unreachable during normal gameplay.
 
 ## Screenshots
 
 <div>
-    <img src="https://i.imgur.com/DVHpJjI.png" width="400"></a>
-    <img src="https://i.imgur.com/kVHoK1F.png" width="400"></a>
-    <img src="https://i.imgur.com/BxzlWHr.jpg" width="400"></a>
+    <img src="https://i.imgur.com/So7J885.png" width="400"></a>
+    <img src="https://i.imgur.com/N51qRXq.png" width="400"></a>
+    <img src="https://i.imgur.com/bFHsxug.png" width="400"></a>
+    <img src="https://i.imgur.com/PqSii3L.png" width="400"></a>
 </div>
 
 ---
@@ -17,7 +18,7 @@ Download the DLL from the [releases tab](https://github.com/aBARICHELLO/Firewatc
 To remove the mod simply delete the replaced DLL and ask Steam to verify the game's integrity, downloading back the original file.
 
 # Usage
-Unity3D uses a [Left-Handed coordinate system](https://en.wikipedia.org/wiki/Cartesian_coordinate_system#Orientation_and_handedness), here are the buttons to change your position in-game.
+Unity3D uses a [Left-Handed coordinate system](https://en.wikipedia.org/wiki/Cartesian_coordinate_system#Orientation_and_handedness), here are the buttons to change your axes in-game.
 
 |Key|Action|
 |-|-|
