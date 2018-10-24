@@ -2,12 +2,12 @@
 Noclip mod for the game [Firewatch](https://en.wikipedia.org/wiki/Firewatch). This mod lets you fly around and get to areas that are unreachable during normal gameplay.
 
 ## Screenshots
-
+Click any of the images to check a video showing the mod in action.
 <div>
-    <img src="https://i.imgur.com/So7J885.png" width="400"></a>
-    <img src="https://i.imgur.com/N51qRXq.png" width="400"></a>
-    <img src="https://i.imgur.com/bFHsxug.png" width="400"></a>
-    <img src="https://i.imgur.com/PqSii3L.png" width="400"></a>
+    <a href="https://www.youtube.com/watch?v=J8ee1b1XuMg"><img src="https://i.imgur.com/So7J885.png" width="400"></a>
+    <a href="https://www.youtube.com/watch?v=J8ee1b1XuMg"><img src="https://i.imgur.com/N51qRXq.png" width="400"></a>
+    <a href="https://www.youtube.com/watch?v=J8ee1b1XuMg"><img src="https://i.imgur.com/bFHsxug.png" width="400"></a>
+    <a href="https://www.youtube.com/watch?v=J8ee1b1XuMg"><img src="https://i.imgur.com/PqSii3L.png" width="400"></a>
 </div>
 
 ---
